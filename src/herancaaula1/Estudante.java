@@ -2,7 +2,7 @@
 package herancaaula1;
 
 
-public class Estudante {
+public class Estudante extends Pessoa {
     private String curso;
 
     public String getCurso() {
